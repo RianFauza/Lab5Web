@@ -1,5 +1,11 @@
 # Lab5Web
 
+# Pertanyaan dan Tugas
+# 1. Buat script untuk melakukan validasi pada isian form.
+![Screenshot (124)](https://github.com/RianFauza/Lab5Web/assets/115771479/1dfbc278-94cb-4a3a-98ee-67a913367bcf)
+![Screenshot (125)](https://github.com/RianFauza/Lab5Web/assets/115771479/bbcff1bf-77d4-473d-895e-42679ea3de1f)
+
+
 # Menulis ke dalam output HTML menggunakan document.write(). dan Menulis ke konsol browser, menggunakan console.log().
 ![image](https://github.com/RianFauza/Lab5Web/assets/115771479/67796c7c-7ab7-4669-8b5f-e265fff8aa10)
 
